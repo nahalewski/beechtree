@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "openclaw-gmail-agent-491616",
+  "private_key_id": "d91a83323006f622168029d335984604336d6033",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDCM1AWECd8BMCx\n/k48Xh4jU/WFOKzKCZcJHEXejAaE4/cZFgAXkRyT+IO0hysUW+BK17UvSKpIU83M\ntBtRcSLVed9RYIwqMOvGLak8O0Gw3Olx/xH+FyAX5+wIRt1u2nF9Y9wQzOEw+Dle\nz4/ftAtm5yagj/+2N2BmyV/ylhNySBNRy9RtytNXhP9ZwG5BRwdoeLgg2cwtljXK\nnYb5fUPvu9OsPZ9IEm2EEQdx1CCgERFn97il+usL4UO8AYZ5UBc9y3/gI5QUqOL8\n+04f3BV07sSeElcwbl+ldDlsk4YwhTzvBYTVqnf6UgFel5j4EvebGjWNwnhlMBe3\nF8QRWNfZAgMBAAECggEABGBtrKGeki/1O820a63fVgJ9ZQw68K64pa7qcDKNrw8I\nMZuKUv2lPDx8k2P8d4/+hRFJdxBXLhwdZkCk4PgAxfjiLI5Velnx5lx/FOls+JRx\n+my6NhTFV2SVsDYQpX/s0NugSQylApqFiHp7DpqbKy2IdFPqemvTE130eJ4jQA8P\nsIlwyJlPDSbbXriz+efvj6D5XpEJqvjtiAP4HSma1xzitsbopWWdPwiIrKrOH06x\noKtS4QH/rrkD1uM4N48oVZwAQY09ZZ0idT18nTuVMvuefH8I7WnY9BV3QGE7hvvA\ngUcBVIJjz5+u9ZlaxHNo0RiL2SRc+ldxSOh7ngm3EQKBgQD0kpPY7ja5Fxu5a77r\n7hLDucdV9xwdumkrje8NOMnOxdI62MLw+LEFpjfToOjbO367QXS0+aKwhqc0oBta\nMAC32NAeHET5p6A1xQ0+2PDPvDj71V1MyPpMNJzjcujo0JrNBDabgXhcinDPplxR\nqtLHQblzJS7lJxN0Ttt+zcA1vQKBgQDLRjc7y3qC3BKFRCKqmqEH9gJ/4ZFFEST6\n0ix1vlK+AkTLqyj4yVsN+OzWtMHiDvs1gKYaqvqv6MRynTBWcUh1RhJ1FOY9B4wL\nRMP3lIi/0S4p01zrIMawI0rikWonegoSJMiRBIPcWDjLlSpnDciMeFcQHJ+v5G4q\nXbPyUyNGTQKBgQCNCHl5fuTPlyPFqPxP0NnBREBOslDkU7qSAyb22OiG9Exm4tiH\nXOG4AEHxJ7kfsw9BrF1AfzPx17RUBH/BYi0H118r/eFIlgEtAJTCyRcUs9WoY0GK\nJdswVqaiAoGMv76EuwlCY0alFrA3DhfugDNL8/qdC7QfMIlnaJHqbXuJgQKBgHq/\nqOTjx9Qzvr9Y2LI689jR1sqQVN/nLXSE7DIhvudciVyPvAsX1HNIiQRSXO38a/fv\n+t4Jt534KoCnqSPZ/o5KxSSMfUgHQasgWFIuELH8SCsbpnWZ8kE03qiYdQjnqiMw\nsSjZGCM75vgQ2G0opp0kojZpgoh9oYTV1q8TQy7VAoGAHRXMZ6/3Hy6I8Jbcx+uB\nCG7zoLyXw6s3VbSkjSNkU+Y0Gt6s5QTKIAy4QDmY/S/s09jZWo2C5edmo3IPtmuF\n8k0OTC4S0lhVRMFLJ+CBa0ThOU8veQU58sUZ2vyYJydX+4knS55I5hZsFRVbsvqR\nNSdES/gs+jAzwYYc4nNT4aQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-sheets@openclaw-gmail-agent-491616.iam.gserviceaccount.com",
+  "client_id": "107498668489641539102",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-sheets%40openclaw-gmail-agent-491616.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

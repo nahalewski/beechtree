@@ -190,7 +190,7 @@ def vapi_webhook():
                 return jsonify({"assistant": {"variableValues": {"employee_name": e_name, "employee_phone": caller_phone}}}), 200
             else:
                 print("New Caller ID. No match found.")
-                return jsonify({"assistant": {"variableValues": {"employee_name": "", "employee_phone": caller_phone}}}), 200
+                return jsonify({"assistant": {"variableValues": {"employee_phone": caller_phone}}}), 200
 
         if msg_type == 'tool-calls':
             tool_calls = msg.get('toolCalls', [])

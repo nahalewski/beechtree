@@ -12,7 +12,7 @@ app = Flask(__name__)
 # --- Configuration & Credentials ---
 # Google Sheets
 # You need a service account JSON file from Google Cloud Console
-GCP_SERVICE_ACCOUNT_FILE = os.getenv('GCP_SERVICE_ACCOUNT_FILE', 'openclaw-gmail-agent-491616-d91a83323006.json')
+GCP_SERVICE_ACCOUNT_FILE = os.getenv('GCP_SERVICE_ACCOUNT_FILE', 'openclaw-gmail-agent-491616-40d098c7cd21.json')
 SPREADSHEET_ID = os.getenv('SPREADSHEET_ID', '1LAc7p_A_9-59_7FCNDgcTeeBDSQMBRAvQZTeRZJ7hww')
 
 # Vapi (For future outbound calls)

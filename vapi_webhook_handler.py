@@ -49,6 +49,9 @@ def init_services():
     except Exception as e:
         print(f"Warning: Could not initialize Twilio client: {e}")
 
+# Initialize services immediately for Gunicorn compatibility
+init_services()
+
 # --- Helper Functions ---
 def send_sms(to_phone, body):
     try:
@@ -317,6 +320,5 @@ def vapi_webhook():
     return jsonify({"status": "success", "action": action_type}), 200
 
 if __name__ == '__main__':
-    # Initialize the APIs once before starting the server
-    init_services()
+    # Run the server locally
     app.run(host='0.0.0.0', port=5050)
